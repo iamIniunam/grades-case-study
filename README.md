@@ -92,4 +92,5 @@ This structure keeps logic reusable, testable, and independent from UI layers.
   <img alt="semester-deets-portrait" src="assets/screenshots/semester-deets-portrait.png" width="180" style="margin: 6px;"/>
   <img alt="edit-course-portrait" src="assets/screenshots/edit-course-portrait.png" width="180" style="margin: 6px;"/>
   <img alt="semester-deets-portrait" src="assets/screenshots/article-deets-portrait.png" width="180" style="margin: 6px;"/>
+  <img alt="search-portrait" src="assets/screenshots/lifestyle-search-portrait.png" width="180" style="margin: 6px;"/>
 </p>
