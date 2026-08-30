@@ -75,7 +75,7 @@ This structure keeps logic reusable, testable, and independent from UI layers.
 ## 📱 Gallery
 
 <p align="center">
-  <img alt="home-stats-portrait" src="assets/screenshots/home-stats-portrait.png" width="180" style="margin: 6px;"/>
+  <img alt="home-stats-portrait" src="assets/screenshots/home-portrait.png" width="180" style="margin: 6px;"/>
   <img alt="academics-portrait" src="assets/screenshots/academics-portrait.png" width="180" style="margin: 6px;"/>
   <img alt="account-portrait" src="assets/screenshots/account-portrait.png" width="180" style="margin: 6px;"/>
   <img alt="profile-portrait" src="assets/screenshots/profile-portrait.png" width="180" style="margin: 6px;"/>
