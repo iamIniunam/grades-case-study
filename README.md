@@ -77,13 +77,19 @@ This structure keeps logic reusable, testable, and independent from UI layers.
 <p align="center">
   <img alt="home-stats-portrait" src="assets/screenshots/home-portrait.png" width="180" style="margin: 6px;"/>
   <img alt="academics-portrait" src="assets/screenshots/academics-portrait.png" width="180" style="margin: 6px;"/>
+  <img alt="account-portrait" src="assets/screenshots/lifestyle-portrait.png" width="180" style="margin: 6px;"/>
   <img alt="account-portrait" src="assets/screenshots/account-portrait.png" width="180" style="margin: 6px;"/>
-  <img alt="profile-portrait" src="assets/screenshots/profile-portrait.png" width="180" style="margin: 6px;"/>
 </p>
 
 <p align="center">
+  <img alt="profile-portrait" src="assets/screenshots/profile-portrait.png" width="180" style="margin: 6px;"/>
   <img alt="search-portrait" src="assets/screenshots/search-portrait.png" width="180" style="margin: 6px;"/>
   <img alt="edit-course-portrait" src="assets/screenshots/edit-course-portrait.png" width="180" style="margin: 6px;"/>
   <img alt="year-details-portrait" src="assets/screenshots/year-details-portrait.png" width="180" style="margin: 6px;"/>
+</p>
+
+
+<p align="center">
   <img alt="semester-deets-portrait" src="assets/screenshots/semester-deets-portrait.png" width="180" style="margin: 6px;"/>
+  <img alt="semester-deets-portrait" src="assets/screenshots/article-deets-portrait.png" width="180" style="margin: 6px;"/>
 </p>
